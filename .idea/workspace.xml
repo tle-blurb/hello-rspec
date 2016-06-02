@@ -2,6 +2,568 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b17c5f0-5eab-4601-8bd1-744312625d37" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/.autotest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/.document" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/.document" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.generators" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec/CHANGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/Contribute.rdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/History.rdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/History.rdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/Manifest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/Manifest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/README.jruby" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/README.rdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/README.rdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/failing/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/Ruby1.9.rdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/TODO.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/TODO.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec_controller/USAGE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec_model/USAGE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/Upgrade.rdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/Upgrade.rdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/render_spec/_a_partial.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/objects/_object.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/controller_spec/_partial.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/view_spec/_partial.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/view_spec/_partial_used_twice.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/view_spec/_partial_with_local_variable.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/view_spec/_partial_with_sub_partial.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/rjs_spec/_replacement_partial.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/view_spec/_spacer.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/resources/a_bar.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/resources/a_foo.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/resources/a_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/ruby1.9.compatibility/access_to_constants_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/view_spec/accessor.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/controller_spec/action_setting_flash_after_session_reset.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/controller_spec/action_setting_flash_before_session_reset.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/controller_spec/action_setting_the_assigns_hash.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/extensions/action_view_base_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/controllers/action_view_base_spec_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/render_spec/action_with_alternate_layout.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/controller_spec/action_with_errors_in_template.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/controller_spec/action_with_template.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/extensions/active_record_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/load_paths/add_lib_to_load_path.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/load_paths/add_spec_to_load_path.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/helpers/addition_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/models/animal.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/any_number_of_times_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/layouts/application.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/controllers/application.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/matchers/ar_be_valid.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/matchers/ar_be_valid_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/mocks/ar_classes.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/example/args_and_options.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/mocks/argument_expectation.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/argument_expectation_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/mocks/argument_matchers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/argument_matchers_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/matchers/assert_select.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/matchers/assert_select_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/example/assigns_hash_proxy.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/example/assigns_hash_proxy_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/at_least_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/at_most_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/autorun.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/interop/test/unit/autorunner.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script/autospec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec/templates/script/autospec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/bin/autospec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/autotest/autotest_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/autotest/autotest_matchers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/backtrace_tweaker.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/extensions/action_view/base.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/extensions/active_record/base.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/formatter/base_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/formatter/base_formatter_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/formatter/base_text_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/formatter/base_text_formatter_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/be.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/be_close.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/be_close_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/be_instance_of.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/be_instance_of_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/be_kind_of.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/be_kind_of_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/be_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/before_and_after_blocks/before_and_after_blocks.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/example/before_and_after_hooks.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/package/bin_spec_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/view_spec/block_helper.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/bug_report_10260_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/bug_report_10263_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/bug_report_11545_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/bug_report_15719_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/bug_report_496_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/bug_report_600_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/bug_report_7611_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/bug_report_7805_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/bug_report_8165_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/bug_report_8302_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/bug_report_830_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/matchers/change.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/change.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/change_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/class_and_argument_parser_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/class_and_arguments_parser.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/resources/helpers/cmdline.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/command_line.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/command_line_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/compatibility.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/compatibility_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features-pending/cli/conditional_exclusion.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/extensions/spec/runner/configuration.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/configuration.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/example/configuration_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/configuration_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/example/controller_example_group.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/example/controller_example_group_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/example/controller_isolation_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec_controller/templates/controller_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec_scaffold/templates/controller_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/controllers/controller_spec_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/example/cookies_proxy.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/example/cookies_proxy_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/stubs/cucumber.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/cucumber.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/extensions/custom_example_group.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/resources/custom_example_group_runner.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/formatters/custom_formatter.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/custom_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/custom_matchers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/expectations/customized_message.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/differs/default.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/expectations/differs/default_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/matchers/define_diffable_matcher.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/example_groups/define_example_attribute.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/matchers/define_matcher.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/matchers/define_matcher_outside_rspec.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/matchers/define_matcher_with_fluent_interface.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/matchers/define_wrapped_matcher.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/deprecation.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/description_generation_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/failing/diffing_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/autotest/discover.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/autotest/discover.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/autotest/discover_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/double_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/drb_command_line.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/drb_command_line_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/dsl.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/dsl.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/dsl_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/dynamic_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec_scaffold/templates/edit_erb_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/empty_file.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/view_spec/entry_form.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/support/env.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/eql.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/eql_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/equal.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/equal_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/mocks/error_generator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/example/error_handling_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/example/errors.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/expectations/errors.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/errors.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/mocks/errors.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/matchers/errors_on_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/controllers/example.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/example/example_group.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/example/example_group_class_definition_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/example/example_group_factory.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/example/example_group_factory_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/example/example_group_factory_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/example/example_group_hierarchy.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/example/example_group_methods.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/example/example_group_methods_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/example/example_group_proxy.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/example/example_group_proxy_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/example_group_runner.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/example_group_runner_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/example/example_group_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/example_groups/example_group_with_should_methods.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/example/example_matcher.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/example/example_matcher_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/example/example_methods.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/mocks/example_methods.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/example/example_methods_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/example/example_proxy.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/example/example_proxy_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/resources/rake/examples.rake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/examples.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/interop/examples_and_tests_together.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/resources/rake/examples_with_rcov.rake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/exist.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/exist_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/expectations/expect_change.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/expectations/expect_error.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/expectations.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/view_spec/explicit_helper.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/helpers/explicit_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/subject/explicit_subject.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/extensions.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/expectations/extensions.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/mocks/extensions.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/expectations/fail_with.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/expectations/fail_with_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/failed.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/autotest/failed_results_re_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/failing_argument_matchers_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/formatter/failing_example_groups_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/formatter/failing_example_groups_formatter_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/formatter/failing_examples_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/formatter/failing_examples_formatter_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/resources/rake/failing_examples_with_html.rake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/failing/failing_implicit_docstrings_example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/failing/failure_in_after.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/failing/failure_in_before.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/file_accessor.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/file_accessor_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/filtered_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/filtered_formatter_example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/adapters/mock_frameworks/flexmock.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/mocks/framework.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/example/functional_example_group.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/geminstaller.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/generated_descriptions.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/greeter_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/expectations/handler.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/expectations/handler_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/has.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/has_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/hash_including_matcher_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/hash_not_including_matcher_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/extensions/spec/matchers/have.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/have.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/have_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/matchers/have_text.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/matchers/have_text_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features-pending/heckle/heckle.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/heckle_runner.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/heckle_runner_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/heckle_runner_unsupported.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/heckler_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/hello-rspec.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/example/helper_example_group.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/example/helper_example_group_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/helper_method_example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/example/helper_method_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec_controller/templates/helper_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec_scaffold/templates/helper_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/rjs_spec/hide_div.js.rjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/rjs_spec/hide_page_element.js.rjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/formatter/html_formatted-1.8.6-jruby.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/formatter/html_formatted-1.8.6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/formatter/html_formatted-1.8.7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/formatter/html_formatted-1.9.1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/formatter/html_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/formatter/html_formatter_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/example_groups/implicit_docstrings.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/implicit_docstrings_example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/view_spec/implicit_helper.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/subject/implicit_subject.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/include.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/include_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/matchers/include_text.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/matchers/include_text_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec_scaffold/templates/index_erb_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/init.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/init.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/rjs_spec/insert_html.js.rjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/extensions/instance_exec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/example/integration_example_group.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/integration_spec/templates/integration_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/integration_spec/integration_spec_generator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/io_processor.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/io_processor_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/expectations/extensions/kernel.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/extensions/kernel.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/expectations/extensions/kernel_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/command_line/line_number_option.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/command_line/line_number_option_with_example_with_no_name.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/line_number_query.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/line_number_query/line_number_query_fixture.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/line_number_query_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/differs/load-diff-lcs.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/support/macros.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/dsl/main.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/dsl/main_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/autotest/mappings_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/match.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/match_array.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/match_array_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/match_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/matcher.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/matcher_methods_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/matcher_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/matchers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/matchers_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/mocks/message_expectation.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/method_missing.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/mocks/methods.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/mocks/mix_stubs_and_mocks.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/adapters/mock_frameworks/mocha.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/mocks/mock.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/mocks/mock_model_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/mock_ordering_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/mock_space_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/mock_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/failing/mocking_example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/mocking_example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/failing/mocking_with_flexmock.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/failing/mocking_with_mocha.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/failing/mocking_with_rr.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/mocks.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/mocks.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/example/model_example_group.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/example/model_example_group_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec_model/templates/model_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/example/module_reopening_fix.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/helpers/more_explicit_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/multi_threaded_example_group_runner.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/view_spec/multiple_helpers.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/multiple_return_value_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/nested_classes_example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/example/nested_example_group_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/example_groups/nested_groups.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/formatter/nested_text_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/formatter/nested_text_formatter_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec_scaffold/templates/new_erb_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/nil_expectation_warning_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/formatter/no_op_method_missing.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/tag_spec/no_tags.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/noisy_backtrace_tweaker_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/controller_spec/non_existent_action_with_existent_template.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/null_object_mock_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/mocks/extensions/object.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/once_counts_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/operator_matcher.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/operator_matcher_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/option_parser.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/option_parser_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/options.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/options_example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/options_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/options_hash_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/options_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/mocks/order_group.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/output_one_time_fixture.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/output_one_time_fixture_runner.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/output_one_time_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/failing/partial_mock_example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/partial_mock_example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/partial_mock_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/partial_mock_using_mocks_directly_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/passing_argument_matchers_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/view_spec/path_params.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/example/pending.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/failing/pending_example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/pending_example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/pending/pending_examples.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/example/pending_module_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/models/person.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/helpers/plugin_application_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/precise_counts_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/failing/predicate_example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/predicate_example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/example/predicate_matcher_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/example/predicate_matchers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/pretty.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec/templates/previous_failures.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/formatter/profile_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/formatter/profile_formatter_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/formatter/progress_bar_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/formatter/progress_bar_formatter_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/mocks/proxy.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/quiet_backtrace_tweaker_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/autotest/rails_rspec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/rails_suite.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/raise_error.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/raise_error_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/failing/raising_example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/rcov.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec/templates/rcov.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/record_messages_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/controllers/redirect_spec_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/matchers/redirect_to.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/matchers/redirect_to_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/example/render_observer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/controllers/render_spec_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/matchers/render_template.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/matchers/render_template_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/rjs_spec/replace.js.rjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/rjs_spec/replace_html.js.rjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/rjs_spec/replace_html_with_partial.js.rjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/reporter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/reporter_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/extensions/action_controller/rescue.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/respond_to.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/respond_to_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/controllers/rjs_spec_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/matchers/route_to.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/example/routing_example_group.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/example/routing_example_group_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/example/routing_helpers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec_scaffold/templates/routing_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/adapters/mock_frameworks/rr.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/rspec.rake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec/templates/rspec.rake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/autotest/rspec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/adapters/mock_frameworks/rspec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec_controller/rspec_controller_generator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec_default_values.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec/rspec_generator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec_model/rspec_model_generator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/interop/rspec_output.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec_scaffold/rspec_scaffold_generator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/autotest/rspec_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/ruby.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/ruby_forker.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/step_definitions/running_rspec_steps.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/sample_modified_fixture.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/sample_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/satisfy.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/satisfy_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/example/shared_example_group.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/shared_example_group_example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/example/shared_example_group_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/example/shared_routing_example_group_examples.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/shared_stack_examples.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/matchers/should_change_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/view_spec/should_not_receive.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/view_spec/foo/show.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec_scaffold/templates/show_erb_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/formatter/silent_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/layouts/simple.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/simple_matcher.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/simple_matcher_example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/simple_matcher_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/tag_spec/single_div_with_no_attributes.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/tag_spec/single_div_with_one_attribute.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/support/matchers/smart_match.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/formatter/snippet_extractor.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/formatter/snippet_extractor_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/render_spec/some_action.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/render_spec/some_action.js.rjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/mocks/space.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/spec.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec/templates/spec.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/spec.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script/spec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec/templates/script/spec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/bin/spec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/support/spec_classes.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/spec_drb.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/spec_helper/spec_helper.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/spec_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec/templates/spec_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/spec_spaced.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/spec_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/interop/test/unit/spec_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/interop/test/unit/resources/spec_that_fails.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/interop/test/unit/resources/spec_that_passes.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/interop/test/unit/resources/spec_with_errors.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/interop/test/unit/resources/spec_with_options_hash.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/formatter/specdoc_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/formatter/specdoc_formatter_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/runner/specify_line_number.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/rake/spectask.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/rake/spectask_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/stack.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/stack_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/stack_spec_with_nested_example_groups.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/stub_chain_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/mocks/stub_implementation.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/stub_implementation_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/mocks/stub_model_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/stub_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/stubbed_message_expectations_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/stubbing_example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/example/subclassing_example_group_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/example/subject.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/example/subject_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/failing/syntax_error_example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/failing/team_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/view_spec/template_with_partial.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/view_spec/template_with_partial_using_collection.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/view_spec/template_with_partial_with_array.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/interop/test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/interop/test_but_not_test_unit.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/extensions/action_controller/test_case.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/extensions/active_support/test_case.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/interop/test/unit/resources/test_case_that_fails.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/interop/test/unit/resources/test_case_that_passes.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/interop/test/unit/resources/test_case_with_errors.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/interop/test_case_with_should_methods.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/interop/test/unit/resources/test_case_with_various_names.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/extensions/action_controller/test_response.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/example/test_unit_assertion_accessibility_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/interop/test/unit/test_unit_spec_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/interop/testcase.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/interop/test/unit/testcase.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/interop/testcase_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/interop/test/unit/testcase_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/interop/test/unit/testresult.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/interop/test/unit/ui/console/testrunner.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/interop/test/unit/testsuite_adapter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/interop/test/unit/testsuite_adapter_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/interop/test/unit/resources/testsuite_adapter_spec_with_test_unit.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/formatter/text_mate_formatted-1.8.6-jruby.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/formatter/text_mate_formatted-1.8.6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/formatter/text_mate_formatted-1.8.7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/formatter/text_mate_formatted-1.9.1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/runner/formatter/text_mate_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/formatter/text_mate_formatter_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/models/thing.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/throw_symbol.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/matchers/throw_symbol_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/failing/timeout_behaviour.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/twice_counts_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/test/unit.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/mocks/unstub_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/mock_framework_integration/use_flexmock.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/mock_framework_integration/use_mocha.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/features/mock_framework_integration/use_rr.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/runner/resources/utf8_encoded.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/resources/rake/verify_rcov.rake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/rake/verify_rcov.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/version.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/version.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/lib/spec/rails/example/view_example_group.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/spec/rails/example/view_example_group_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/view_spec/view_helpers.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/generators/rspec_controller/templates/view_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/helpers/view_spec_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/rjs_spec/visual_effect.js.rjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec-rails/spec/resources/views/rjs_spec/visual_toggle_effect.js.rjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/lib/spec/matchers/wrap_expectation.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/spec/spec/expectations/wrap_expectation_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/rspec/examples/passing/yielding_example.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/boot.rb" afterPath="$PROJECT_DIR$/config/boot.rb" />
     </list>
     <ignored path="hello-rspec.iws" />
@@ -37,11 +599,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="boot.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="boot.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/boot.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.026737968">
+            <state vertical-scroll-proportion="0.0">
               <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -56,6 +628,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/config/boot.rb" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -126,6 +699,41 @@
     <property name="recentsLimit" value="5" />
   </component>
   <component name="RunManager" selected="Rails.Development: hello-rspec">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="RailsRunConfigurationType" factoryName="Rails">
       <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
       <module name="" />
@@ -174,6 +782,37 @@
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <method />
     </configuration>
     <configuration default="false" name="test: hello-rspec" type="RakeRunConfigurationType" factoryName="Rake">
@@ -297,15 +936,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="974" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32992035" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5904437" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -314,8 +955,6 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -338,8 +977,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/boot.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.026737968">
+        <state vertical-scroll-proportion="0.0">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
           <folding />
         </state>
       </provider>
